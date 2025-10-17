@@ -12,7 +12,7 @@ The remove_duplicates function takes a list as an input and returns a new list c
 
 ## Part 2: API Testing
 - **Time Spent:** 40 minutes
-- **Approach:**
+- **Approach:** To begin, set up the environment to install necessary libraries to make API calls and structure tests. Identify API test points and create functions that make API requests. Run these tests to check if the API has behaved as expected.
 
 ## How to Run 
 ### Part 1
