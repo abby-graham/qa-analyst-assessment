@@ -6,7 +6,9 @@
 
 ## Part 1: Functional Programming
 - **Time Spent:** 35 minutes
-- **Approach:**
+- **Approach:** 
+The remove_duplicates function takes a list as an input and returns a new list containing only the unique elements from the original list, while preserving the order they appeared in. Using a set allows the program to keep track of the elements it has already added to the result list.
+
 
 ## Part 2: API Testing
 - **Time Spent:** 40 minutes
